@@ -39,11 +39,39 @@
 
 ---
 
-## 📈 GitHub Journey
+## 📊 GitHub Stats
 
-I'm currently building projects in Artificial Intelligence, Machine Learning, and Software Development while continuously improving my problem-solving skills.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshsankat28&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsankat28&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-Stay tuned—more exciting projects are coming soon!
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vanshsankat28&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Project Planner | AI-powered project planning application *(Coming Soon)* |
+| 🐍 Python Programs | Python fundamentals and mini projects *(Coming Soon)* |
+| ☕ Java Lab | Java programming assignments *(Coming Soon)* |
+| 📚 Data Structures & Algorithms | Daily DSA practice *(Coming Soon)* |
+
+---
+
+## 📈 My Journey
+
+I'm currently focused on strengthening my skills in Artificial Intelligence, Machine Learning, and Software Development through hands-on projects and continuous learning.
+
+Every repository on this profile represents a step in my journey toward becoming a better developer.
 
 ---
 
@@ -51,12 +79,12 @@ Stay tuned—more exciting projects are coming soon!
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vanshsankat/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/vanshsankat">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vanshsankat8@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
